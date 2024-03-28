@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Thulio Costa 😁
+## Bem-vindo(a) ao perfil do Thulio Costa
 
  <div>
    <a href="https://github.com/ThulioC1">
